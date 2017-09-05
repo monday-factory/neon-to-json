@@ -1,0 +1,5 @@
+{
+    "require": {
+        "nette/neon": "^2.4"
+    }
+}
